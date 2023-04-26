@@ -24,4 +24,4 @@ leetcode exercises designed to help students improve their skills in algorithms 
 
 ---
 ### Ref:
-- (LeetCode Cookbook)[https://books.halfrost.com/leetcode/]
+- [LeetCode Cookbook](https://books.halfrost.com/leetcode/)
