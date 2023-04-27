@@ -3,7 +3,9 @@ leetcode exercises designed to help students improve their skills in algorithms 
 
 
 ## 題目:
-1. [Two Sum](https://github.com/KotlinBackend/leetcode-classroom/blob/main/docs/two-sum.md)
+| # | Title | language |
+|---| ----- | -------- |
+|0001| [Two Sum](https://github.com/KotlinBackend/leetcode-classroom/blob/main/docs/0001two-sum.md)| golang|
 
 
 
