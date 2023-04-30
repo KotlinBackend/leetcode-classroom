@@ -9,6 +9,7 @@ leetcode exercises designed to help students improve their skills in algorithms 
 |0002| [Add Two Numbers](https://github.com/KotlinBackend/leetcode-classroom/blob/main/docs/0002add-two-numbers.md)| golang|
 |0003| [Longest Substring Without Repeating Characters](https://github.com/KotlinBackend/leetcode-classroom/blob/main/docs/0003longest-substring-without-repeating-characters.md)| golang|
 |0004| [Median of Two Sorted Arrays](https://github.com/KotlinBackend/leetcode-classroom/blob/main/docs/0004median-of-two-sorted-arrays.md)| golang|
+|0005| [Longest Palindromic Substring](https://github.com/KotlinBackend/leetcode-classroom/blob/main/docs/0005longest-palindromic-substring.md)| golang|
 
 
 
